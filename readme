@@ -1,1 +1,5 @@
+Basic ESP32 based crypto currency Ticker using the coingecko API to pull price information
+every 60 seconds (or however often you like), written for a HELTEC ESP32 module with OLED screen built-in, but will work on most Arduino-y things.
+
+More info on HELTEC ESP32 https://heltec.org/project/wifi-kit-32/
 
